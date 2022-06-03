@@ -1,6 +1,6 @@
 ### Este es mi perfil de github👋
 
-![Screenshot_1](https://user-images.githubusercontent.com/91574669/171804122-7394fb34-4750-47e8-9ed7-caced05b2cf6.jpg)
+![Screenshot_1](https://user-images.githubusercontent.com/91574669/171806797-b50df487-6108-4311-b309-f69410be7c86.jpg)
 
 
 
