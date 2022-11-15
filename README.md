@@ -1,3 +1,5 @@
+[![My-project-1-removebg-preview.png](https://i.postimg.cc/5NjkyCNS/My-project-1-removebg-preview.png)](https://postimg.cc/YhKxyjFv)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabianDiazN&theme=jolly)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianDiazN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
