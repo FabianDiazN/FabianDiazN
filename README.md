@@ -1,11 +1,17 @@
 [![My-project-1-removebg-preview.png](https://i.postimg.cc/5NjkyCNS/My-project-1-removebg-preview.png)](https://postimg.cc/YhKxyjFv)
 
+<p><img align= "left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabiandiazn&show_icons=true&locale=en&layout=compact" alt="fabiandiazn" /></p>
 
+<p>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiandiazn&show_icons=true&locale=en" alt="fabiandiazn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiandiazn&" alt ="fabiandiazn" /></p>
+    
 
 ![Screenshot_2](https://raw.githubusercontent.com/SantiagoAcevedo/SantiagoAcevedo/c210b5f5ea95c12e93a1ff2ac1525393f104943e/github-contribution-grid-snake.svg)
 
 
-    
+
+
 <h1 align="center">Hi 👋, I'm Fabian Diaz</h1>
 <h3 align="center">Information and communication technology engineer</h3>
 
@@ -22,5 +28,4 @@
 <a href="https://www.youtube.com/c/not found" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="not found" height="30" width="40" /></a>
 </p>
 
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiandiazn&label=Profile%20views&color=0e75b6&style=flat" alt="fabiandiazn" /> </p>
