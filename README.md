@@ -27,5 +27,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiandiazn&label=Profile%20views&color=0e75b6&style=flat" alt="fabiandiazn" /> </p>
 
-## [Cursos](cursos.pdf)
-[![](https://cefne.com/wp-content/uploads/2021/06/foto-cefne2.jpg)](cursos.pdf)
+## Cursos
+[![](https://cefne.com/wp-content/uploads/2021/06/foto-cefne2.jpg)](https://github.com/FabianDiazN/cursos/blob/main/cursos.pdf)
