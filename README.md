@@ -28,4 +28,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiandiazn&label=Profile%20views&color=0e75b6&style=flat" alt="fabiandiazn" /> </p>
 
 ## Cursos
-[![](https://cdn-icons-png.flaticon.com/512/2436/2436874.png)](https://github.com/FabianDiazN/cursos/blob/main/ilovepdf_merged.pdf)
+[![](https://cdn-icons-png.flaticon.com/512/7989/7989024.png)](https://github.com/FabianDiazN/cursos/blob/main/ilovepdf_merged.pdf)
